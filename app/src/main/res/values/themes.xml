@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Huaweipushtesting" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/meezan_primary</item>
+        <item name="colorPrimaryDark">@color/meezan_primary_dark</item>
+        <item name="colorAccent">@color/meezan_accent</item>
+        <item name="android:windowBackground">@color/meezan_background</item>
+        <item name="android:textColorPrimary">@color/meezan_text_primary</item>
+        <item name="android:textColorSecondary">@color/meezan_text_secondary</item>
+    </style>
+
+    <style name="Theme.Huaweipushtesting" parent="Base.Theme.Huaweipushtesting" />
+</resources>

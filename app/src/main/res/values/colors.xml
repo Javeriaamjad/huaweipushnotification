@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Meezan Bank Color Scheme -->
+    <color name="meezan_primary">#006B3C</color>
+    <color name="meezan_primary_dark">#004D2A</color>
+    <color name="meezan_primary_light">#00A651</color>
+    <color name="meezan_accent">#FFD700</color>
+    <color name="meezan_background">#F8F9FA</color>
+    <color name="meezan_card_background">#FFFFFF</color>
+    <color name="meezan_text_primary">#1A1A1A</color>
+    <color name="meezan_text_secondary">#666666</color>
+    <color name="meezan_success">#00A651</color>
+    <color name="meezan_success_light">#E8F5E9</color>
+    <color name="meezan_error">#D32F2F</color>
+    <color name="meezan_error_light">#FFEBEE</color>
+    <color name="meezan_warning">#F57C00</color>
+    <color name="meezan_warning_light">#FFF3E0</color>
+    <color name="meezan_info">#1976D2</color>
+    <color name="meezan_info_light">#E3F2FD</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
